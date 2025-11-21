@@ -1,0 +1,7 @@
+[
+    {"name": "User 1", "job": "Worker"},
+    {"name": "User 2", "job": "Leader"},
+    {"name": "User 3", "job": "Student"},
+    {"name": "User 4", "job": "Tester"},
+    {"name": "User 5", "job": "Developer"}
+]
