@@ -1,0 +1,18 @@
+I decided to finish both technical tasks in Python Selenium framework, all files are functional in command line
+
+
+Technical Task #1
+
+For the frontend task I identified 3 test cases which are essential for the functionality of this page
+
+1. "Positive Scenario" that makes sure the users from the list are able to log in with the provided password and the login button works and redirects the user to the next page
+2. "Negative Scenario" that makes sure the users can't put in any random password to get through to the next page
+3. "Error Scenario" that tries to input different credentials or no credentials to verify how the page notifies the user about the specific issue with the login
+
+There are 3 .py files uploaded to the GitHub each for a specific test case
+
+
+
+Technical Task #2
+
+For the backend task I uploaded 2 .py files for specific test cases and 1 .json file with data for the second test case
